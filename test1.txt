@@ -1,2 +1,4 @@
 Line 1 from branch 1
 Line 2 from branch 1
+Line 3 from branch 2
+Line 4 from branch 2
